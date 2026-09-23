@@ -3,7 +3,7 @@
 
 A console-based Python program that simulates rolling a pair of six-sided dice. Built during Month 1 of my Python Development internship at **Arch Technologies**.
 
-**Repository:** https://github.com/libra-mtanveer316/arch-technologies-python-developer-internship
+**Repository:** https://github.com/libra-mtanveer316/arch-technologies-python-developer-internship-month1
 
 ---
 
