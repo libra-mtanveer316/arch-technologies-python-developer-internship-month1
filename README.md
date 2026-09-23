@@ -23,4 +23,4 @@ A simple Python dice rolling game that simulates rolling a dice and displays the
 ## Author
 
 **Muhammad Tanveer**  
-GitHub: (https://github.com/libra-mtanveer316)
+GitHub: https://github.com/libra-mtanveer316
