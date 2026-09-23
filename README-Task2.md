@@ -1,7 +1,7 @@
 
 # TO-DO LIST APPLICATION
 
-A console-based Python program that lets you add tasks, view your current list, and remove tasks once they're completed — with a live progress bar tracking how much you've finished. Built during Month 1 of my Python Development internship at **Arch Technologies**.
+A console-based Python program that lets you add tasks, view your current list, and remove tasks once they're completed — with a live progress bar tracking how much you've finished. Built during Month 1 of my Python Developer internship at **Arch Technologies**.
 
 **Repository:** https://github.com/libra-mtanveer316/arch-technologies-python-developer-internship-month1
 
