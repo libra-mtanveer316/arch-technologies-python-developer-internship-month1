@@ -1,4 +1,4 @@
-# ARCH Technologies – Python Developer Internship 
+# Arch Technologies – Python Developer Internship 
 
 This repository contains my Month 1 tasks and projects completed during my Python Developer Internship at ARCH Technologies.
 
