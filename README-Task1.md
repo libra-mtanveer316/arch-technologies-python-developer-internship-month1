@@ -101,9 +101,8 @@ Thanks for playing! See you next time.
 | File | Purpose |
 |------|---------|
 | `dice_rolling_game.py` | Main program — run this |
-| `dice_rolling_game_visual.py` | Optional version with ASCII dice faces + rolling animation |
 | `requirements.txt` | Dependency list (none — standard library only) |
-| `README.md` | This file |
+| `README-Task1.md` | This file |
 
 ## Author
 
