@@ -123,9 +123,9 @@ Alright, closing the app. Have a productive day!
 
 | File | Purpose |
 |------|---------|
-| `todo_app.py` | Main program — run this |
+| `todo_list_app.py` | Main program — run this |
 | `requirements.txt` | Dependency list (none — standard library only) |
-| `README.md` | This file |
+| `README-Task2.md` | This file |
 
 ## Author
 
