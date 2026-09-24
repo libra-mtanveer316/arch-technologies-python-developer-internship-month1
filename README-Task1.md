@@ -23,12 +23,6 @@ pip install -r requirements.txt
 python dice_rolling_game.py
 ```
 
-Optional visual version with ASCII dice faces and a rolling animation:
-
-```
-python dice_rolling_game_visual.py
-```
-
 ---
 
 ## How It Works
@@ -101,7 +95,6 @@ Thanks for playing! See you next time.
 | File | Purpose |
 |------|---------|
 | `dice_rolling_game.py` | Main program — run this |
-| `requirements.txt` | Dependency list (none — standard library only) |
 | `README-Task1.md` | This file |
 
 ## Author
