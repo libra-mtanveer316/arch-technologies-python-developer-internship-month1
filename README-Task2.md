@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ### 2. Run the program
 
 ```
-python todo_app.py
+python todo_list_app.py
 ```
 
 ---
@@ -124,7 +124,6 @@ Alright, closing the app. Have a productive day!
 | File | Purpose |
 |------|---------|
 | `todo_list_app.py` | Main program — run this |
-| `requirements.txt` | Dependency list (none — standard library only) |
 | `README-Task2.md` | This file |
 
 ## Author
